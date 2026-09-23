@@ -1,4 +1,4 @@
-# Utfordinger som ble løst under produksjon
+# Utfordringer som ble løst under produksjon
 
 ## Generell informasjon om produksjons prosessen
 

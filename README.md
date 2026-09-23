@@ -1,8 +1,6 @@
 # Mattilsynet – Rensefisk API til Excel 🐟
 
-Dette programmet henter rådata om rensefisk automatisk fra Mattilsynets åpne API, flater ut de nøstede JSON-strukturene, og lagrer dataene i en ryddig Excel-fil som er klar for analyse.
-
-Programmet bruker en visuell filutforsker, slik at du selv kan velge hvor du vil lagre den ferdige rapporten.
+Dette prosjektet ble laget for å løse et praktisk problem for et familie-medlem. De trengte data fra Mattilsynets nye side om rensefisk, men APIer tilbyr bare .json filer til nedlastning, og de fleste utenfor IT-industrien er mer vant med Excel. Jeg lagde først et skript som henter rådata om rensefisk automatisk fra Mattilsynets åpne API, flater ut de nøstede JSON-strukturene, og lagrer dataene i en ryddig Excel-fil som er klar for analyse. Etter de som skulle bruke dette programmet ikke er kjent med VS Code laget jeg et skript til for en web applikasjon som er enklere å bruke. Man laster bare ned .json filen man ønsker fra Mattilsynet og dropper det eller laster det opp på websiden. Applikasjonen kan man finne på https://rensefisk-konverterer.streamlit.app
 
 ---
 
